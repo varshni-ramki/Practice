@@ -1,0 +1,397 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title": "Branding and Communication",
+      "description": "We help brands connect and engage by finding a unique voice in the market. From strategy and positioning to logo and graphic design to advertising campaigns, we produce identity and communications materials that build credibility, as well as sales.",
+      "image": "branding.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Inbound &  Content Marketing",
+      "description": "We have a team of inbound-certified content experts, writers and designers who know your market and can develop an inbound marketing strategy that will help you attract visitors to your website, convert them into leads and then into customers.",
+      "image": "inbound.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Film &  Webinar",
+      "description": "Our talent pool includes musicians, song writers and video technicians who can create unique soundtracks for your corporate films or put together a YouTube video that showcases your products or company. We also help you create, host and promote webinars and podcasts or live streaming programs.",
+      "image": "films.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Digital Marketing",
+      "description": "WE can help tie your online and offline branding together with digital and social media services, pay per click (PPC), SEO/SEM or Google Adwords.  At UP we work with all social media networks, and can help you with both your paid activities and organic presence. ",
+      "image": "digital.jpg"
+    },
+    {
+      "id": 5,
+      "title": "ECommerce & Websites",
+      "description": "We provide full website design and development services, including UX design and ecommerce. Our team can set up CMS systems, including HubSpot, WordPress, Drupal and more.  ",
+      "image": "ecommerce.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Market Analysis",
+      "description": "UP starts all major marketing, branding, advertising and creative service projects with a thorough briefing process and market research. This phase might include customer research or a START ME UP workshop.  UP LAB also offers in-depth analysis and market insights to help you understand your customers. ",
+      "image": "market.jpg"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "NeuroSync",
+      "description": "A revolutionary brain-computer interface (BCI) that allows users to control digital devices, smart homes, and even robotic assistants using only their thoughts. This project integrates EEG-based neural mapping with AI-driven pattern recognition to translate brain signals into real-time commands, enabling a seamless interaction between the human mind and technology.",
+      "status": "active",
+      "startDate": "2024-03-01",
+      "endDate": "2025-06-30",
+      "teamSize": 12,
+      "image": "neurosync.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "BioLumino",
+      "description": "An eco-friendly initiative that aims to replace traditional streetlights with genetically engineered bioluminescent plants. By modifying the genes responsible for natural bioluminescence found in deep-sea organisms and integrating them into common urban plants, this project seeks to create sustainable, energy-free lighting solutions that reduce electricity consumption and carbon footprints.",
+      "status": "research",
+      "startDate": "2023-09-15",
+      "endDate": "2026-04-20",
+      "teamSize": 8,
+      "image": "biolumino.jpg"
+    },
+    {
+      "id": 3,
+      "name": "AquaNet",
+      "description": "A cutting-edge underwater drone network designed to monitor marine ecosystems, detect pollution, and remove ocean waste autonomously. The AI-powered drones use machine learning models to identify marine species, track coral reef health, and detect hazardous waste in real-time. The system is envisioned to work in collaboration with global environmental agencies to combat water pollution and restore marine biodiversity.",
+      "status": "prototype",
+      "startDate": "2024-01-10",
+      "endDate": "2025-09-30",
+      "teamSize": 15,
+      "image": "aquanet.jpg"
+    },
+    {
+      "id": 4,
+      "name": "HoloVerse",
+      "description": "A next-generation immersive gaming platform that combines advanced holography, spatial computing, and AI-driven storytelling to create fully interactive virtual worlds. Unlike traditional VR, HoloVerse projects lifelike holograms into the real world, allowing players to engage in realistic, physics-based interactions with digital objects in their environment, revolutionizing the gaming industry.",
+      "status": "development",
+      "startDate": "2024-06-01",
+      "endDate": "2026-03-15",
+      "teamSize": 20,
+      "image": "holoverse.jpg"
+    },
+    {
+      "id": 5,
+      "name": "NanoCure",
+      "description": "A groundbreaking medical initiative that uses nanotechnology to design microscopic nanobots capable of delivering targeted drug treatments to diseased cells in the human body. These nanorobots can precisely administer chemotherapy drugs to cancerous tissues while minimizing damage to healthy cells, reducing side effects and improving treatment efficiency. ",
+      "status": "clinical trials",
+      "startDate": "2023-05-10",
+      "endDate": "2027-07-20",
+      "teamSize": 18,
+      "image": "nanocure.jpg"
+    },
+    {
+      "id": 6,
+      "name": "EcoPrint",
+      "description": "A 3D printing project that transforms ocean plastic waste into durable, aesthetically pleasing furniture and construction materials. By integrating AI-based material analysis and robotic precision printing, EcoPrint aims to reduce environmental waste while providing affordable and sustainable design solutions. The project also explores the use of biodegradable materials to create eco-friendly alternatives for urban infrastructure.",
+      "status": "pilot phase",
+      "startDate": "2023-11-05",
+      "endDate": "2025-12-01",
+      "teamSize": 10,
+      "image": "ecoprint.jpg"
+    },
+    {
+      "id": 7,
+      "name": "SkyFarm",
+      "description": "A futuristic floating farm system that leverages aeroponics and AI-driven automation to grow crops in urban airspaces. These self-sustaining airborne farms are designed to maximize space efficiency in densely populated cities, reducing reliance on traditional farmland while producing fresh, pesticide-free food. SkyFarm uses climate-adaptive AI to monitor plant health and optimize water and nutrient distribution.",
+      "status": "concept",
+      "startDate": "2024-08-01",
+      "endDate": "2027-01-15",
+      "teamSize": 7,
+      "image": "skyfarm.jpg"
+    },
+    {
+      "id": 8,
+      "name": "QuantumLink",
+      "description": "An ambitious research project focused on developing a quantum internet network that enables ultra-secure, instantaneous communication by leveraging the principles of quantum entanglement. Unlike traditional encryption, QuantumLink uses quantum key distribution (QKD) to ensure messages remain completely unhackable, paving the way for next-generation cybersecurity and faster-than-light data transfer possibilities.",
+      "status": "theoretical research",
+      "startDate": "2023-12-20",
+      "endDate": "2030-09-01",
+      "teamSize": 25,
+      "image": "quantumlink.jpg"
+    },
+    {
+      "id": 9,
+      "name": "MetaMind",
+      "description": "An AI-powered virtual therapist designed to analyze and respond to human emotions in real time. Using deep learning and natural language processing, MetaMind adapts its responses based on a user's speech, facial expressions, and physiological signals. It serves as a personalized mental health assistant, offering stress management exercises, cognitive behavioral therapy (CBT) techniques, and emotional support to users worldwide.",
+      "status": "beta testing",
+      "startDate": "2024-02-10",
+      "endDate": "2025-11-30",
+      "teamSize": 14,
+      "image": "metamind.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Orbital Haven",
+      "description": "A visionary space colonization project aimed at designing a self-sustaining orbital habitat for long-term human survival beyond Earth. The habitat features artificial gravity, closed-loop agricultural systems, and AI-powered resource management. Orbital Haven will serve as a testing ground for interplanetary migration, space tourism, and off-world research, marking a crucial step toward humanity’s future in space.",
+      "status": "simulation phase",
+      "startDate": "2025-01-01",
+      "endDate": "2035-12-31",
+      "teamSize": 30,
+      "image": "orbital_haven.jpg"
+    }
+  ],
+  "details": [
+    {
+      "id": 1,
+      "title": "Creating powerful brands and recognizable identities",
+      "description": [
+        "We help brands connect and engage by finding a unique place and voice in the market. From brand strategy and positioning, to visual and verbal identity, as well as logo and graphic design, we offer expertise in all brand and identity related areas.",
+        "Turn to us for dazzling execution on your brand messaging and communications. From thought-provoking advertising campaigns to magazines or annual reports, our team will conceptualize and produce marketing communications that reflect your brand image and build credibility, as well as sales. Need a stand in Las Vegas for CES? Then you've also come to the right place."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Quality content and inbound services to drive profitable business",
+      "description": [
+        "Regardless of your company size or which industry you work in, you need to engage with your prospects and customers with content that is useful and relevant to them. Content that will attract visitors via search, content you can use in your own channels, and content that will play a part in your paid media efforts.",
+        "At UP THERE EVERYWHERE, we work with inbound marketing, creating content that will engage, attract, engage and delight your target audience."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "A picture speaks a thousand words",
+      "description": [
+        "... and video and sound can say even more. Film is a powerful way to engage your audience and deliver complex messages. UP has extensive experience in audio-visual creation — we make films all over the world every week. ",
+        "Our talent pool includes directors, script and copywriters, video editors and production specialists who can create unique corporate films or short-and-sweet streaming video campaigns for YouTube that showcase your products or company.",
+        "We can also support you in hosting webinars (both as lead generation tools and to replace in-person meetings or conferences), developing podcasts, or scheduling live streaming programs on Facebook and LinkedIn."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "ABC Limited delivers digital marketing services that get results",
+      "description": [
+        "ABC Limited will help you define your digital marketing strategy: it is the science of blending social media, Google, PPC, SEO, your website (and content) into one coherent plan. ",
+        "An engaging campaign should seamlessly combine relevant, eye catching creative with informed analytics, and most of all, targeting where your target audience is hanging out.",
+        "To create these amazing campaigns, we have a tried and tested process: this allows us to make sure we understand your business and commercial objectives.",
+        "We identify your target audience and create personas detailing: what sites they use, the media they consume, what motivates them",
+        "We analyze your competitors, producing a detailed report about their lead generation or sales strategy, what sites they appear on, where they are advertising, where their backlinks feature, the keywords they are ranking for and what their core propositions are."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Connecting your offline and online worlds",
+      "description": [
+        "Think of your ‘digital strategy’ as your ‘sales strategy’. The days of digital playing second fiddle to your offline activities are long gone.",
+        "At the start of all our web projects, we make sure we understand the goal of your site. This includes the role it plays in your sales pipeline, and how your online and offline channels integrate with it.",
+        "We take the time to understand your audience, competitors, your USP, and what will keep you at the forefront of your sector.",
+        "And then we craft the most usable and beautiful site for your customers."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Understanding is key",
+      "description": [
+        "UP starts all major marketing, branding, advertising, digital and creative service projects with a deep understanding of your customers, competitors and marketplace.  This covers both quantitative and qualitative research and can range from desk and digital research to online surveys, telephone interviews and focus groups.",
+        "We have a vast experience with market research and can undertake original research if needed.  We don’t forget the importance of internal research either. Most often we find the key to igniting a campaign, brand or organization is to be found internally.",
+        "As part of our Audit Phase (using our BASE-UP program) we will often run an internal Start Me UP workshop session. UP has many years of experience running these sessions on every continent for clients ranging from small start ups to the likes of Microsoft and GE. Better understanding and insight is the beginning of any good creative or marketing plan."
+      ]
+    }
+  ],
+  "enquiries": [
+    {
+      "id": "ef47",
+      "name": "Joseph",
+      "email": "joseph@gmail.com",
+      "serviceType": "Web Development",
+      "message": "We need an ecommerce site to be done"
+    },
+    {
+      "id": "ef48",
+      "name": "Alice",
+      "email": "alice@example.com",
+      "serviceType": "SEO",
+      "message": "Looking for SEO services for our new website."
+    },
+    {
+      "id": "ef49",
+      "name": "Bob",
+      "email": "bob@example.com",
+      "serviceType": "Content Marketing",
+      "message": "Need help with content marketing strategy."
+    },
+    {
+      "id": "ef50",
+      "name": "Charlie",
+      "email": "charlie@example.com",
+      "serviceType": "Branding",
+      "message": "Interested in rebranding our company."
+    },
+    {
+      "id": "ef51",
+      "name": "David",
+      "email": "david@example.com",
+      "serviceType": "Web Development",
+      "message": "Require a new website for our business."
+    },
+    {
+      "id": "ef52",
+      "name": "Eve",
+      "email": "eve@example.com",
+      "serviceType": "Digital Marketing",
+      "message": "Looking for digital marketing services."
+    },
+    {
+      "id": "ef53",
+      "name": "Frank",
+      "email": "frank@example.com",
+      "serviceType": "Market Analysis",
+      "message": "Need market analysis for our new product."
+    },
+    {
+      "id": "ef54",
+      "name": "Grace",
+      "email": "grace@example.com",
+      "serviceType": "Film & Webinar",
+      "message": "Interested in creating a corporate film."
+    },
+    {
+      "id": "ef55",
+      "name": "Hank",
+      "email": "hank@example.com",
+      "serviceType": "ECommerce",
+      "message": "Need an ecommerce site for our store."
+    },
+    {
+      "id": "ef56",
+      "name": "Ivy",
+      "email": "ivy@example.com",
+      "serviceType": "SEO",
+      "message": "Looking for SEO optimization."
+    },
+    {
+      "id": "ef57",
+      "name": "Jack",
+      "email": "jack@example.com",
+      "serviceType": "Content Marketing",
+      "message": "Need content marketing for our blog."
+    },
+    {
+      "id": "ef58",
+      "name": "Kathy",
+      "email": "kathy@example.com",
+      "serviceType": "Branding",
+      "message": "Interested in branding services."
+    },
+    {
+      "id": "ef59",
+      "name": "Leo",
+      "email": "leo@example.com",
+      "serviceType": "Web Development",
+      "message": "Require a new website design."
+    },
+    {
+      "id": "ef60",
+      "name": "Mona",
+      "email": "mona@example.com",
+      "serviceType": "Digital Marketing",
+      "message": "Looking for social media marketing."
+    },
+    {
+      "id": "ef61",
+      "name": "Nina",
+      "email": "nina@example.com",
+      "serviceType": "Market Analysis",
+      "message": "Need customer research for our service."
+    },
+    {
+      "id": "ef62",
+      "name": "Oscar",
+      "email": "oscar@example.com",
+      "serviceType": "Film & Webinar",
+      "message": "Interested in hosting a webinar."
+    },
+    {
+      "id": "ef63",
+      "name": "Paul",
+      "email": "paul@example.com",
+      "serviceType": "ECommerce",
+      "message": "Need help with ecommerce platform."
+    },
+    {
+      "id": "ef64",
+      "name": "Quinn",
+      "email": "quinn@example.com",
+      "serviceType": "SEO",
+      "message": "Looking for SEO audit."
+    },
+    {
+      "id": "ef65",
+      "name": "Rachel",
+      "email": "rachel@example.com",
+      "serviceType": "Content Marketing",
+      "message": "Need content strategy for our website."
+    },
+    {
+      "id": "ef66",
+      "name": "Sam",
+      "email": "sam@example.com",
+      "serviceType": "Branding",
+      "message": "Interested in logo design."
+    },
+    {
+      "id": "ef67",
+      "name": "Tina",
+      "email": "tina@example.com",
+      "serviceType": "Web Development",
+      "message": "Require a responsive website."
+    },
+    {
+      "id": "ef68",
+      "name": "Uma",
+      "email": "uma@example.com",
+      "serviceType": "Digital Marketing",
+      "message": "Looking for PPC services."
+    },
+    {
+      "id": "ef69",
+      "name": "Vince",
+      "email": "vince@example.com",
+      "serviceType": "Market Analysis",
+      "message": "Need market insights for our campaign."
+    },
+    {
+      "id": "ef70",
+      "name": "Wendy",
+      "email": "wendy@example.com",
+      "serviceType": "Film & Webinar",
+      "message": "Interested in creating a podcast."
+    },
+    {
+      "id": "ef71",
+      "name": "Xander",
+      "email": "xander@example.com",
+      "serviceType": "ECommerce",
+      "message": "Need ecommerce integration."
+    },
+    {
+      "id": "ef72",
+      "name": "Yara",
+      "email": "yara@example.com",
+      "serviceType": "SEO",
+      "message": "Looking for SEO content creation."
+    },
+    {
+      "id": "ef73",
+      "name": "Zane",
+      "email": "zane@example.com",
+      "serviceType": "Content Marketing",
+      "message": "Need help with content distribution."
+    },
+    {
+      "id": "93f4",
+      "name": "Varshni RR",
+      "email": "varshramki.19@gmail.com",
+      "serviceType": "AI & ML Solutions",
+      "message": "sfgaedsrfhdyguhlkjgfhf"
+    }
+  ]
+}
