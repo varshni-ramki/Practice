@@ -1,0 +1,33 @@
+<h3>Our Projects</h3>
+
+<!-- Filter by Team Size -->
+<label>Min Team Size:</label>
+<input type="number" [(ngModel)]="minTeam" />
+
+<label>Max Team Size:</label>
+<input type="number" [(ngModel)]="maxTeam" />
+
+<!-- Filter by Status -->
+<label for="status">Filter by Status:</label>
+<select [(ngModel)]="selectedStatus">
+  <option value="">All</option>
+  <option value="development">development</option>
+  <option value="pilot phase">pilot phase</option>
+  <option value="active">active</option>
+  <option value="research">research</option>
+  <option value="prototype">prototype</option>
+  <option value="clinical trials">clinical trials</option>
+  <option value="theoretical research">theoretical research</option>
+  <option value="beta testing">beta testing</option>
+  <option value="simulation phase">simulation phase</option>
+  <option value="concept">concept</option>
+</select>
+
+<app-project-card
+  *ngFor="
+    let project of projectslist
+      | teamSizeFilter : minTeam : maxTeam
+      | projectStatusFilter : selectedStatus
+  "
+  [project]="project"
+></app-project-card>
